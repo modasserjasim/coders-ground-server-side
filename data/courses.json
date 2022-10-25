@@ -1,0 +1,71 @@
+[
+    {
+        "id": "react-native-with-hook",
+        "course_title": "The Complete React Native + Hooks Course",
+        "course_description": "Understand React Native with Hooks, Context, and React Navigation with real-world projects",
+        "course_duration": "3h 30m",
+        "category_name": "Mobile App",
+        "author": {
+            "name": "Modasser Jasim",
+            "img": "https://modasserjasim.com/coders-ground/user-1.png",
+            "info": "Modasser has been building complex Javascript front ends for top corporations in the San Francisco Bay Area.  With an innate ability to simplify complex topics, Stephen has been mentoring engineers beginning their careers in software development for years. Invest in yourself by learning from Stephen's published courses."
+        },
+        "rating": 4.8,
+        "course_thumb": "https://modasserjasim.com/coders-ground/course-1.jpeg",
+        "course_features": [
+            "Create real-world native apps using React Native",
+            "Understand the terminology and concepts of Redux",
+            "Get up to speed with React design principles and methodologies",
+            "Make truly reusable components that look great",
+            "Prototype and deploy your own applications to the Apple and Google Play Stores",
+            "Discover mobile design patterns used by experienced engineers"
+        ],
+        "description": "This course will get you up and running with React Native quickly, and teach you the core knowledge you need to deeply understand and build React components for mobile devices. Both OSX and Windows supported - develop iOS or Android! This course includes content on both v0.62.2 and the legacy v0.30.x, which is widely used in industry. We'll start by mastering the fundamentals of React, including JSX, props, state, and event handling. Source code is provided for each lecture, so you will always stay up-to-date with the course pacing.  Special attention has been paid to creating reusable components that you'll be able to make use of on your own fantastic projects. React Native is an excellent solution for developing apps on mobile in a fraction of the time it takes to make an equivalent iOS or Swift app.  You'll love seeing your changes instantly appear on your own device, rather than waiting for Swift/Java code to recompile!  This quick feedback loop, along with excellent cross platform support, is what has catapulted React Native to the top must-have skill for Javascript engineers. If you are new to React, or if you've been working to learn it but sometimes feel like you still don't quite 'get it', this is the React course for you! To learn React you have to understand it. I've built the course that I would have wanted to take when I was learning React Native. A course that explains the concepts and how they're implemented in the best order for you to learn and deeply understand them."
+    },
+    {
+        "id": "python-bootcamp-2022",
+        "course_title": "The Complete Python Pro Bootcamp for 2022",
+        "course_description": "Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!",
+        "course_duration": "10h 30m",
+        "category_name": "Programming",
+        "author": {
+            "name": "Modasser Jasim",
+            "img": "https://modasserjasim.com/coders-ground/user-2.png",
+            "info": "Modasser has been building complex Javascript front ends for top corporations in the San Francisco Bay Area.  With an innate ability to simplify complex topics, Stephen has been mentoring engineers beginning their careers in software development for years. Invest in yourself by learning from Stephen's published courses."
+        },
+        "rating": 4.8,
+        "course_thumb": "https://modasserjasim.com/coders-ground/course-2.jpeg",
+        "course_features": [
+            "Create real-world native apps using React Native",
+            "Understand the terminology and concepts of Redux",
+            "Get up to speed with React design principles and methodologies",
+            "Make truly reusable components that look great",
+            "Prototype and deploy your own applications to the Apple and Google Play Stores",
+            "Discover mobile design patterns used by experienced engineers"
+        ],
+        "description": "This course will get you up and running with React Native quickly, and teach you the core knowledge you need to deeply understand and build React components for mobile devices. Both OSX and Windows supported - develop iOS or Android! This course includes content on both v0.62.2 and the legacy v0.30.x, which is widely used in industry. We'll start by mastering the fundamentals of React, including JSX, props, state, and event handling. Source code is provided for each lecture, so you will always stay up-to-date with the course pacing.  Special attention has been paid to creating reusable components that you'll be able to make use of on your own fantastic projects. React Native is an excellent solution for developing apps on mobile in a fraction of the time it takes to make an equivalent iOS or Swift app.  You'll love seeing your changes instantly appear on your own device, rather than waiting for Swift/Java code to recompile!  This quick feedback loop, along with excellent cross platform support, is what has catapulted React Native to the top must-have skill for Javascript engineers. If you are new to React, or if you've been working to learn it but sometimes feel like you still don't quite 'get it', this is the React course for you! To learn React you have to understand it. I've built the course that I would have wanted to take when I was learning React Native. A course that explains the concepts and how they're implemented in the best order for you to learn and deeply understand them."
+    },
+    {
+        "id": "server-side-react-with-redux",
+        "course_title": "Server Side Rendering with React and Redux",
+        "course_description": "Build React, Redux, and React Router apps using Server Side Rendering (SSR), Isomorphic, and Universal JS techniques",
+        "course_duration": "3h 30m",
+        "category_name": "Web Development",
+        "author": {
+            "name": "Sanowar Hossain",
+            "img": "https://modasserjasim.com/coders-ground/user-1.png",
+            "info": "Modasser has been building complex Javascript front ends for top corporations in the San Francisco Bay Area.  With an innate ability to simplify complex topics, Stephen has been mentoring engineers beginning their careers in software development for years. Invest in yourself by learning from Stephen's published courses."
+        },
+        "rating": 4.8,
+        "course_thumb": "https://modasserjasim.com/coders-ground/course-3.jpeg",
+        "course_features": [
+            "Create real-world native apps using React Native",
+            "Understand the terminology and concepts of Redux",
+            "Get up to speed with React design principles and methodologies",
+            "Make truly reusable components that look great",
+            "Prototype and deploy your own applications to the Apple and Google Play Stores",
+            "Discover mobile design patterns used by experienced engineers"
+        ],
+        "description": "This course will get you up and running with React Native quickly, and teach you the core knowledge you need to deeply understand and build React components for mobile devices. Both OSX and Windows supported - develop iOS or Android! This course includes content on both v0.62.2 and the legacy v0.30.x, which is widely used in industry. We'll start by mastering the fundamentals of React, including JSX, props, state, and event handling. Source code is provided for each lecture, so you will always stay up-to-date with the course pacing.  Special attention has been paid to creating reusable components that you'll be able to make use of on your own fantastic projects. React Native is an excellent solution for developing apps on mobile in a fraction of the time it takes to make an equivalent iOS or Swift app.  You'll love seeing your changes instantly appear on your own device, rather than waiting for Swift/Java code to recompile!  This quick feedback loop, along with excellent cross platform support, is what has catapulted React Native to the top must-have skill for Javascript engineers. If you are new to React, or if you've been working to learn it but sometimes feel like you still don't quite 'get it', this is the React course for you! To learn React you have to understand it. I've built the course that I would have wanted to take when I was learning React Native. A course that explains the concepts and how they're implemented in the best order for you to learn and deeply understand them."
+    }
+]
