@@ -100,7 +100,7 @@
         "course_title": "Artificial Intelligence: Learn How To Build An AI",
         "course_description": "Combine the power of Data Science, Machine Learning and Deep Learning to create powerful AI for Real-World applications!",
         "course_duration": "6h 50m",
-        "category_name": "Data Science",
+        "category_name": "Artificial Intelligence",
         "price": 149.00,
         "instructor": {
             "name": "Ehaan Al Afnan",
@@ -229,7 +229,7 @@
     },
     {
         "id": "complete-cyber-security-2022",
-        "course_title": "The Complete Cyber Security : Hackers Exposed",
+        "course_title": "Complete Cyber Security : Hackers Exposed",
         "course_description": "Become a Cyber Security Specialist, Learn How to Stop Hackers, Prevent Hacking, Learn IT Security & INFOSEC",
         "course_duration": "34h 30m",
         "category_name": "Cyber Security",
