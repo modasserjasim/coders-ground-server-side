@@ -5,13 +5,14 @@
         "course_description": "Understand React Native with Hooks, Context, and React Navigation with real-world projects",
         "course_duration": "3h 30m",
         "category_name": "Mobile App",
-        "author": {
+        "price": 49.99,
+        "instructor": {
             "name": "Modasser Jasim",
             "img": "https://modasserjasim.com/coders-ground/user-1.png",
             "info": "Modasser has been building complex Javascript front ends for top corporations in the San Francisco Bay Area.  With an innate ability to simplify complex topics, Stephen has been mentoring engineers beginning their careers in software development for years. Invest in yourself by learning from Stephen's published courses."
         },
         "rating": 4.8,
-        "course_thumb": "https://modasserjasim.com/coders-ground/course-1.jpeg",
+        "course_thumb": "https://modasserjasim.com/coders-ground/react-native-with-hook.jpg",
         "course_features": [
             "Create real-world native apps using React Native",
             "Understand the terminology and concepts of Redux",
@@ -19,6 +20,14 @@
             "Make truly reusable components that look great",
             "Prototype and deploy your own applications to the Apple and Google Play Stores",
             "Discover mobile design patterns used by experienced engineers"
+        ],
+        "materials": [
+            "7.5 hours on-demand video",
+            "10 articles",
+            "31 downloadable resources",
+            "Full lifetime access",
+            "Access on mobile and TV",
+            "Certificate of Completion"
         ],
         "description": "This course will get you up and running with React Native quickly, and teach you the core knowledge you need to deeply understand and build React components for mobile devices. Both OSX and Windows supported - develop iOS or Android! This course includes content on both v0.62.2 and the legacy v0.30.x, which is widely used in industry. We'll start by mastering the fundamentals of React, including JSX, props, state, and event handling. Source code is provided for each lecture, so you will always stay up-to-date with the course pacing.  Special attention has been paid to creating reusable components that you'll be able to make use of on your own fantastic projects. React Native is an excellent solution for developing apps on mobile in a fraction of the time it takes to make an equivalent iOS or Swift app.  You'll love seeing your changes instantly appear on your own device, rather than waiting for Swift/Java code to recompile!  This quick feedback loop, along with excellent cross platform support, is what has catapulted React Native to the top must-have skill for Javascript engineers. If you are new to React, or if you've been working to learn it but sometimes feel like you still don't quite 'get it', this is the React course for you! To learn React you have to understand it. I've built the course that I would have wanted to take when I was learning React Native. A course that explains the concepts and how they're implemented in the best order for you to learn and deeply understand them."
     },
@@ -28,13 +37,14 @@
         "course_description": "Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!",
         "course_duration": "10h 30m",
         "category_name": "Programming",
-        "author": {
+        "price": 99.99,
+        "instructor": {
             "name": "Modasser Jasim",
             "img": "https://modasserjasim.com/coders-ground/user-2.png",
             "info": "Modasser has been building complex Javascript front ends for top corporations in the San Francisco Bay Area.  With an innate ability to simplify complex topics, Stephen has been mentoring engineers beginning their careers in software development for years. Invest in yourself by learning from Stephen's published courses."
         },
         "rating": 4.8,
-        "course_thumb": "https://modasserjasim.com/coders-ground/course-2.jpeg",
+        "course_thumb": "https://modasserjasim.com/coders-ground/python-bootcamp-2022.jpg",
         "course_features": [
             "Create real-world native apps using React Native",
             "Understand the terminology and concepts of Redux",
@@ -42,6 +52,14 @@
             "Make truly reusable components that look great",
             "Prototype and deploy your own applications to the Apple and Google Play Stores",
             "Discover mobile design patterns used by experienced engineers"
+        ],
+        "materials": [
+            "7.5 hours on-demand video",
+            "10 articles",
+            "31 downloadable resources",
+            "Full lifetime access",
+            "Access on mobile and TV",
+            "Certificate of Completion"
         ],
         "description": "This course will get you up and running with React Native quickly, and teach you the core knowledge you need to deeply understand and build React components for mobile devices. Both OSX and Windows supported - develop iOS or Android! This course includes content on both v0.62.2 and the legacy v0.30.x, which is widely used in industry. We'll start by mastering the fundamentals of React, including JSX, props, state, and event handling. Source code is provided for each lecture, so you will always stay up-to-date with the course pacing.  Special attention has been paid to creating reusable components that you'll be able to make use of on your own fantastic projects. React Native is an excellent solution for developing apps on mobile in a fraction of the time it takes to make an equivalent iOS or Swift app.  You'll love seeing your changes instantly appear on your own device, rather than waiting for Swift/Java code to recompile!  This quick feedback loop, along with excellent cross platform support, is what has catapulted React Native to the top must-have skill for Javascript engineers. If you are new to React, or if you've been working to learn it but sometimes feel like you still don't quite 'get it', this is the React course for you! To learn React you have to understand it. I've built the course that I would have wanted to take when I was learning React Native. A course that explains the concepts and how they're implemented in the best order for you to learn and deeply understand them."
     },
@@ -51,13 +69,14 @@
         "course_description": "Build React, Redux, and React Router apps using Server Side Rendering (SSR), Isomorphic, and Universal JS techniques",
         "course_duration": "3h 30m",
         "category_name": "Web Development",
-        "author": {
+        "price": 19.49,
+        "instructor": {
             "name": "Sanowar Hossain",
-            "img": "https://modasserjasim.com/coders-ground/user-1.png",
+            "img": "https://modasserjasim.com/coders-ground/user-3.png",
             "info": "Modasser has been building complex Javascript front ends for top corporations in the San Francisco Bay Area.  With an innate ability to simplify complex topics, Stephen has been mentoring engineers beginning their careers in software development for years. Invest in yourself by learning from Stephen's published courses."
         },
         "rating": 4.8,
-        "course_thumb": "https://modasserjasim.com/coders-ground/course-3.jpeg",
+        "course_thumb": "https://modasserjasim.com/coders-ground/server-side-react-with-redux.jpg",
         "course_features": [
             "Create real-world native apps using React Native",
             "Understand the terminology and concepts of Redux",
@@ -66,6 +85,211 @@
             "Prototype and deploy your own applications to the Apple and Google Play Stores",
             "Discover mobile design patterns used by experienced engineers"
         ],
+        "materials": [
+            "7.5 hours on-demand video",
+            "10 articles",
+            "31 downloadable resources",
+            "Full lifetime access",
+            "Access on mobile and TV",
+            "Certificate of Completion"
+        ],
         "description": "This course will get you up and running with React Native quickly, and teach you the core knowledge you need to deeply understand and build React components for mobile devices. Both OSX and Windows supported - develop iOS or Android! This course includes content on both v0.62.2 and the legacy v0.30.x, which is widely used in industry. We'll start by mastering the fundamentals of React, including JSX, props, state, and event handling. Source code is provided for each lecture, so you will always stay up-to-date with the course pacing.  Special attention has been paid to creating reusable components that you'll be able to make use of on your own fantastic projects. React Native is an excellent solution for developing apps on mobile in a fraction of the time it takes to make an equivalent iOS or Swift app.  You'll love seeing your changes instantly appear on your own device, rather than waiting for Swift/Java code to recompile!  This quick feedback loop, along with excellent cross platform support, is what has catapulted React Native to the top must-have skill for Javascript engineers. If you are new to React, or if you've been working to learn it but sometimes feel like you still don't quite 'get it', this is the React course for you! To learn React you have to understand it. I've built the course that I would have wanted to take when I was learning React Native. A course that explains the concepts and how they're implemented in the best order for you to learn and deeply understand them."
+    },
+    {
+        "id": "artificial-intelligence-2022",
+        "course_title": "Artificial Intelligence: Learn How To Build An AI",
+        "course_description": "Combine the power of Data Science, Machine Learning and Deep Learning to create powerful AI for Real-World applications!",
+        "course_duration": "6h 50m",
+        "category_name": "Data Science",
+        "price": 149.00,
+        "instructor": {
+            "name": "Ehaan Al Afnan",
+            "img": "https://modasserjasim.com/coders-ground/user-4.png",
+            "info": "Ehaan is an online entrepreneur who has created 30+ top-rated educational e-courses to the world on new technology topics such as Artificial Intelligence, Machine Learning, Blockchain and Cryptocurrencies."
+        },
+        "rating": 4.9,
+        "course_thumb": "https://modasserjasim.com/coders-ground/artificial-intelligence-2022.jpg",
+        "course_features": [
+            "Build an AI",
+            "Make a virtual Self Driving Car",
+            "Solve Real World Problems with AI",
+            "Q-Learning",
+            "Deep Convolutional Q-Learning",
+            "Understand the theory behind Artificial Intelligence",
+            "Make an AI to beat games",
+            "Master the State of the Art AI models"
+        ],
+        "materials": [
+            "7 hours on-demand video",
+            "7 articles",
+            "23 downloadable resources",
+            "Full lifetime access",
+            "Access on mobile and TV",
+            "Certificate of Completion"
+        ],
+        "description": "Learn key AI concepts and intuition training to get you quickly up to speed with all things AI. Covering: How to start building AI with no previous coding experience using Python. How to merge AI with OpenAI Gym to learn as effectively as possible. How to optimize your AI to reach its maximum potential in the real world. Learn to code self-improving AI for a range of purposes. In fact, we code together with you. Every tutorial starts with a blank page and we write up the code from scratch. This way you can follow along and understand exactly how the code comes together and what each line means. You’ll achieve your goal in not only 1 game but in 3. Each module is comprised of varying structures and difficulties, meaning you’ll be skilled enough to build AI adaptable to any environment in real life, rather than just passing a glorified memory “test and forget” like most other courses. Practice truly does make perfect."
+    },
+    {
+        "id": "data-structures-and-algorithms-2022",
+        "course_title": "Advanced Data Structure & Algorithms in Python",
+        "course_description": "Advanced Data Structures and Algorithms in Python Using Python DSA Data Structures Algorithms DSA Python",
+        "course_duration": "16h 30m",
+        "category_name": "Data Structure",
+        "price": 79.99,
+        "instructor": {
+            "name": "Steve Smith",
+            "img": "https://modasserjasim.com/coders-ground/user-5.png",
+            "info": "Steve has a Master's degree in Mathematics and is the author of popular books 'C in Depth' and 'Data Structures Through C in Depth' helped 370,000+ students. She loves programming, DSA and is passionate about teaching."
+        },
+        "rating": 4.7,
+        "course_thumb": "https://modasserjasim.com/coders-ground/data-structures-and-algorithms-2022.jpg",
+        "course_features": [
+            "Understand various data structures and algorithms (DSA) through animations",
+            "Get the confidence to face programming interviews",
+            "Graph, traversal and shortest path algorithms",
+            "Get the ability to implement different algorithms in Python",
+            "Learn theory and implementation of AVL Trees, B Trees, Threaded Binary Trees and Expression Trees"
+        ],
+        "materials": [
+            "17 hours on-demand video",
+            "13 articles",
+            "11 downloadable resources",
+            "Full lifetime access",
+            "Access on mobile and TV",
+            "Certificate of Completion"
+        ],
+        "description": "This 'Advanced Data Structures and Algorithms In Python' course is thoroughly detailed and uses lots of animations to help you visualize the concepts. This 'Advanced Data Structures and Algorithms in Python' tutorial provides a comprehensive explanation of different types of graph and various graph algorithms. Throughout the course a step by step approach is followed to make you understand different algorithms. Through this course you can build a strong foundation and it will help you to crack Data Structures and Algorithms in Python coding interviews questions and work on projects. Good foundation on Data Structures and Algorithms in Python interview topics helps you to attempt tricky interview questions."
+    },
+    {
+        "id": "complete-blockchain-course-2022",
+        "course_title": "The Complete Blockchain Professional Course",
+        "course_description": "Learn in depth about the Fundamentals of Blockchain, Blockchain Architecture and various Blockchain Use Cases.",
+        "course_duration": "9h 20m",
+        "category_name": "Blockchain",
+        "price": 75.99,
+        "instructor": {
+            "name": "Jason Roy",
+            "img": "https://modasserjasim.com/coders-ground/user-1.png",
+            "info": "Jason Roy a Master's degree in Mathematics and is the author of popular books 'C in Depth' and 'Data Structures Through C in Depth' helped 370,000+ students. She loves programming, DSA and is passionate about teaching."
+        },
+        "rating": 4.5,
+        "course_thumb": "https://modasserjasim.com/coders-ground/complete-blockchain-course-2022.jpg",
+        "course_features": [
+            "You will have a strong understanding about what Blockchain is",
+            "Know the step wise process which is required for designing a Blockchain solution",
+            "Understand the Blockchain Architecture",
+            "Get the ability to implement different algorithms in Python",
+            "Get the exposure on how you can employ Blockchain in your current legacy systems",
+            "Learn about various blockchain solutions like Ethereum, Hyper-ledger, Bitcoin, Cords, Quorum, Multi-chain and EOS",
+            "Smart contract use cases and smart contract applications in order to explain how they are being used in the real world scenarios",
+            "Able to understand how Blockchain is being used in various sectors of the industries"
+        ],
+        "materials": [
+            "9 hours on-demand video",
+            "15 articles",
+            "12 downloadable resources",
+            "Full lifetime access",
+            "Access on mobile and TV",
+            "Certificate of Completion"
+        ],
+        "description": "Learn Blockchain from the industry experts! Learn the key concepts of Blockchain in-depth and in the simplest terms. Welcome to the Complete Blockchain Professional Course. People have heard about Blockchain but they don't know what it is. This course has been designed in such a way that you will get a thorough understanding of how the Blockchain Technology is being used as a solution to various problems being faced by the industries. This is a very comprehensive course that explains all the basics and fundamentals of Blockchain explained in the simplest way."
+    },
+    {
+        "id": "intermediate-game-development-2022",
+        "course_title": "Unreal Intermediate Game Development",
+        "course_description": "Make Local & Online Multiplayer Games. Improve Your Coding Programming Skills. Made In Collaboration With Epic Games.",
+        "course_duration": "29h 30m",
+        "category_name": "Game Development",
+        "price": 95.90,
+        "instructor": {
+            "name": "Jos Butler",
+            "img": "https://modasserjasim.com/coders-ground/user-2.png",
+            "info": "Hi, I'm Jos. I have a degree in computing from Imperial College London, and a physics diploma from the Open University. I started working for myself at the age of 15, and never looked back. I explored careers as varied as being a commercial pilot, stunt-man, rock climbing instructor, and more. "
+        },
+        "rating": 5.0,
+        "course_thumb": "https://modasserjasim.com/coders-ground/intermediate-game-development-2022.jpg",
+        "course_features": [
+            "Make your own local and online multiplayer games using Unreal Engine and C++ and Blueprints",
+            "Use the Steam API to play your game against your friends online",
+            "Create games using Local Area Networks (LANs)",
+            "Understand how Unreal replicates state and why this is important for multiplayer games",
+            "Learn fundamental multiplayer theory and concepts you can apply in your own games",
+            "Build User Interfaces using Unreal Motion Graphics UI Designer",
+            "Gain an understanding for how servers and computers networks connect"
+        ],
+        "materials": [
+            "29 hours on-demand video",
+            "17 articles",
+            "22 downloadable resources",
+            "Full lifetime access",
+            "Access on mobile and TV",
+            "Certificate of Completion"
+        ],
+        "description": "Created in collaboration with Epic Games, the course will show you how to create Epic multiplayer experiences using the world class Unreal Engine. This course hits the ground running, instantly getting you playing your own multiplayer games with other students. As the engine underpinning many AAA games (including Fortnite), Unreal is full of tools for creating multiplayer games extremely quickly. However, knowing where to start with Unreal Engine can be intimidating. With a massive feature set and little documentation, you get stuck understanding where to begin. This course makes understanding Unreal super easy. Not only do we show you how to use the engine, but we teach you the fundamental concepts. These skills allow you to pick up new features for yourself."
+    },
+    {
+        "id": "complete-cyber-security-2022",
+        "course_title": "The Complete Cyber Security : Hackers Exposed",
+        "course_description": "Become a Cyber Security Specialist, Learn How to Stop Hackers, Prevent Hacking, Learn IT Security & INFOSEC",
+        "course_duration": "34h 30m",
+        "category_name": "Cyber Security",
+        "price": 49.95,
+        "instructor": {
+            "name": "Josh Hazlewood",
+            "img": "https://modasserjasim.com/coders-ground/user-3.png",
+            "info": "Josh has over 10 years of experience in cyber security, where he has advised some of largest companies in the world, assuring security on  multi-million and multi-billion pound projects. He is the CEO of Station X, a cyber security career development platform and consultancy."
+        },
+        "rating": 4.4,
+        "course_thumb": "https://modasserjasim.com/coders-ground/complete-cyber-security-2022.jpg",
+        "course_features": [
+            "An advanced practical skillset in defeating all online threats - advanced hackers, trackers, malware and all Internet nastiness including mitigating government spying and mass",
+            "The very latest up-to-date information and methods.",
+            "Explore the threat landscape - Darknets, dark markets, zero day vulnerabilities, exploit kits, malware, phishing and much more.",
+            "Go in-depth into security through physical and virtual isolation and compartmentalization. Covering sandboxes, application isolation, virtual machines,",
+            "A certificate of completion is available signed by the instructor Nathan House so CPE credits can be claimed. An off-site sign-up is required to provide your details for this",
+            "Start a career in cyber security. Become a cyber security specialist.",
+            "You will master encryption in an easy to follow crash course.",
+            "You will learn about nation state secret tracking and hacking infrastructure."
+        ],
+        "materials": [
+            "34 hours on-demand video",
+            "27 articles",
+            "24 downloadable resources",
+            "Full lifetime access",
+            "Access on mobile and TV",
+            "Certificate of Completion"
+        ],
+        "description": "Learn a practical skill-set in defeating all online threats, including - advanced hackers, trackers, malware, zero days, exploit kits, cyber criminals and more. Become a Cyber Security Specialist - Go from a beginner to advanced in this easy to follow expert course. Covering all major platforms - Windows 7, Windows 8, Windows 10, MacOS and Linux. This course covers the fundamental building blocks of your required skill set - You will understand the threat and vulnerability landscape through threat modeling and risk assessments. We explore the Dark net and mindset of the cyber criminal. Covering malware, exploit kits, phishing, zero-day vulnerabilities and much more.You will learn about the global tracking and hacking infrastructures that nation states run. Covering the NSA, FBI, CIA, GCHQ, China’s MSS and other intelligence agencies capabilities."
+    },
+    {
+        "id": "deep-learning-2022",
+        "course_title": "Deep Learning: Convolutional Neural Networks in Python",
+        "course_description": "Tensorflow 2 CNNs for Computer Vision, Natural Language Processing (NLP) +More! For Data Science & Machine Learning",
+        "course_duration": "38h 00m",
+        "category_name": "Deep Learning",
+        "price": 79.95,
+        "instructor": {
+            "name": "Ross Taylor",
+            "img": "https://modasserjasim.com/coders-ground/user-4.png",
+            "info": "I spend most of my time as an artificial intelligence and machine learning engineer with a focus on deep learning, although I have also been known as a data scientist, big data engineer, and full stack software engineer."
+        },
+        "rating": 4.4,
+        "course_thumb": "https://modasserjasim.com/coders-ground/deep-learning-2022.jpg",
+        "course_features": [
+            "Understand convolution and why it's useful for Deep Learning",
+            "Implement a CNN in TensorFlow 2",
+            "Apply CNNs to Natural Language Processing (NLP) for Text Classification (e.g. Spam Detection, Sentiment Analysis)",
+            "Understand and explain the architecture of a convolutional neural network (CNN)",
+            "Apply CNNs to challenging Image Recognition tasks"
+        ],
+        "materials": [
+            "38 hours on-demand video",
+            "31 articles",
+            "14 downloadable resources",
+            "Full lifetime access",
+            "Access on mobile and TV",
+            "Certificate of Completion"
+        ],
+        "description": "Learn about one of the most powerful Deep Learning architectures yet! The Convolutional Neural Network (CNN) has been used to obtain state-of-the-art results in computer vision tasks such as object detection, image segmentation, and generating photo-realistic images of people and things that don't exist in the real world! This course will teach you the fundamentals of convolution and why it's useful for deep learning and even NLP (natural language processing). You will learn about modern techniques such as data augmentation and batch normalization, and build modern architectures such as VGG yourself."
     }
 ]

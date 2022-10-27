@@ -5,8 +5,21 @@ const port = process.env.Port || 4200;
 
 app.use(cors())
 
+const courses = require('./data/courses.json');
+
 app.get('/', (req, res) => {
-    res.send('Welcome from Coders Ground')
+    res.send('API Coders Ground Running')
+})
+
+app.get('/courses', (req, res) => {
+    res.send(courses);
+})
+
+app.get('/course/:id', (req, res) => {
+    const id = req.params.id;
+    const selectedCourse = courses.find(course => course.id === id);
+    res.send(selectedCourse);
+    console.log(selectedCourse);
 })
 
 app.listen(port, () => {
